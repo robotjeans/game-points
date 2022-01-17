@@ -14,7 +14,7 @@ const Header = ({ children, gridArea }) => (
     <Navbar>
       <Link to="/">
         <Item>
-          <SubHeading color={colors.red}>Kahoot! Points</SubHeading>
+          <SubHeading color={colors.red}>Game! Points</SubHeading>
         </Item>
       </Link>
       {children}
